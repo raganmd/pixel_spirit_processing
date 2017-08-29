@@ -1,0 +1,564 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"for",
+				"format"
+			],
+			[
+				"formatted",
+				"formattedPar"
+			],
+			[
+				"empty",
+				"emptyParsPath"
+			],
+			[
+				"scr",
+				"scriptDAT"
+			],
+			[
+				"gl",
+				"gl_FragCoord"
+			],
+			[
+				"u",
+				"u_mouse"
+			],
+			[
+				"u_",
+				"u_resolution"
+			],
+			[
+				"contr",
+				"control_msg"
+			],
+			[
+				"target",
+				"targetControlVals"
+			],
+			[
+				"ta",
+				"targetTox"
+			],
+			[
+				"frm",
+				"formattedPath"
+			],
+			[
+				"emp",
+				"emptySliderPath"
+			],
+			[
+				"item",
+				"itemOp"
+			],
+			[
+				"bro",
+				"boradcastOps"
+			],
+			[
+				"tar",
+				"targetTox"
+			],
+			[
+				"asse",
+				"assetValsDAT"
+			],
+			[
+				"togg",
+				"toggleValsDAT"
+			],
+			[
+				"st",
+				"st"
+			],
+			[
+				"sp",
+				"sphere2"
+			],
+			[
+				"uSp",
+				"uSp1"
+			],
+			[
+				"Sp1",
+				"uSp1"
+			],
+			[
+				"rayD",
+				"rayDir"
+			],
+			[
+				"vec",
+				"vec4"
+			],
+			[
+				"light",
+				"light1Col"
+			],
+			[
+				"di",
+				"directionToLight"
+			],
+			[
+				"gra",
+				"gradientZ"
+			],
+			[
+				"gr",
+				"gradientX"
+			],
+			[
+				"m",
+				"mapTheWorld"
+			],
+			[
+				"dist",
+				"distFromSphere"
+			],
+			[
+				"ray",
+				"rayOrigin"
+			],
+			[
+				"r",
+				"rayDist"
+			],
+			[
+				"min",
+				"minTest"
+			],
+			[
+				"mov",
+				"movie_player"
+			],
+			[
+				"mv",
+				"movie_player"
+			],
+			[
+				"coo",
+				"coords_x"
+			],
+			[
+				"max",
+				"max_x"
+			],
+			[
+				"x",
+				"x_coord"
+			],
+			[
+				"en",
+				"enumerated_list_of_lists"
+			],
+			[
+				"list",
+				"list_of_lists"
+			],
+			[
+				"i",
+				"i"
+			],
+			[
+				"ran",
+				"rand_val"
+			],
+			[
+				"ma",
+				"mad_libs2"
+			],
+			[
+				"my",
+				"my_var_2"
+			],
+			[
+				"l",
+				"line_break"
+			],
+			[
+				"op",
+				"op_table_data"
+			],
+			[
+				"in",
+				"inventory"
+			],
+			[
+				"a",
+				"aFewWords"
+			],
+			[
+				"hello",
+				"helloLOTS"
+			],
+			[
+				"CA",
+				"CA"
+			],
+			[
+				"gold",
+				"gold_room"
+			],
+			[
+				"insanity",
+				"insanity"
+			],
+			[
+				"curre",
+				"current_line"
+			],
+			[
+				"print",
+				"print_a_line"
+			],
+			[
+				"c",
+				"current_file"
+			],
+			[
+				"amoun",
+				"amount_of_crackers"
+			],
+			[
+				"chee",
+				"cheese_and_crackers"
+			],
+			[
+				"amou",
+				"amount_of_crackers"
+			],
+			[
+				"amount",
+				"amount_of_cheese"
+			],
+			[
+				"cheese_",
+				"cheese_and_crackers"
+			],
+			[
+				"print_two",
+				"print_two_again"
+			],
+			[
+				"out",
+				"out_file"
+			],
+			[
+				"to",
+				"to_file"
+			],
+			[
+				"from",
+				"from_file"
+			],
+			[
+				"file",
+				"file_again"
+			],
+			[
+				"th",
+				"third"
+			],
+			[
+				"test",
+				"test_cat"
+			],
+			[
+				"tab",
+				"tabby_cat"
+			],
+			[
+				"joke",
+				"joke_eval"
+			],
+			[
+				"do",
+				"do_not"
+			],
+			[
+				"my_",
+				"my_height"
+			],
+			[
+				"car",
+				"carpool_capacity"
+			],
+			[
+				"cars",
+				"cars_not_driven"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 47.0,
+		"last_filter": "close all",
+		"selected_items":
+		[
+			[
+				"close all",
+				"File: Close All"
+			],
+			[
+				"gls",
+				"Set Syntax: GLSL"
+			],
+			[
+				"glsl",
+				"Set Syntax: GLSL"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 146.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Volumes/Storage/Dropbox/glsl-processing/pixel_spirit/pixel_spirit/data/shader_void.frag",
+		"/private/tmp/touchtmp/dat_glslmulti1_pixel16__td_710_87.glsl",
+		"/private/tmp/touchtmp/dat_script1_callbacks__td_710_54.py",
+		"/private/tmp/touchtmp/dat_chopexec1__td_771_65.py",
+		"/private/tmp/touchtmp/dat_table3__td_739_74.py",
+		"/private/tmp/touchtmp/dat_script1_callbacks__td_819_55.py",
+		"/private/tmp/touchtmp/dat_chopexec1__td_819_59.py",
+		"/Volumes/Storage/Dropbox/glsl-processing/pixel_spirit/pixel_spirit_01/data/shader_void.frag",
+		"/Volumes/Storage/Dropbox/glsl-processing/glsl_sketch/data/shader.frag",
+		"/Volumes/Storage/Dropbox/glsl-processing/glsl_sketch/glsl.frag",
+		"/private/tmp/touchtmp/dat_script1_callbacks__td_1142_56.py",
+		"/private/tmp/touchtmp/dat_chopexec1__td_1142_99.py",
+		"/private/tmp/touchtmp/dat_chopexec1__td_927_83.py",
+		"/private/tmp/touchtmp/dat_script1_callbacks__td_927_73.py",
+		"/private/tmp/touchtmp/dat_glslmulti1_pixel1__td_1283_70.glsl",
+		"/private/tmp/touchtmp/dat_glslmulti1_pixel1__td_1283_66.glsl",
+		"/private/tmp/touchtmp/dat_glslmulti1_pixel1__td_1283_64.glsl",
+		"/private/tmp/touchtmp/dat_glslmulti1_pixel1__td_1374_117.glsl",
+		"/private/tmp/touchtmp/dat_glslmulti1_pixel1__td_1374_115.glsl",
+		"/private/tmp/touchtmp/dat_glslmulti1_pixel1__td_1374_113.glsl",
+		"/private/tmp/touchtmp/dat_glslmulti1_pixel1__td_1374_111.glsl",
+		"/private/tmp/touchtmp/dat_glslmulti1_pixel1__td_1374_108.glsl",
+		"/private/tmp/touchtmp/dat_glslmulti1_pixel1__td_1374_83.glsl",
+		"/private/tmp/touchtmp/dat_glslmulti1_pixel1__td_1374_65.glsl",
+		"/private/tmp/touchtmp/dat_glslmulti1_pixel1__td_1374_46.glsl",
+		"/private/tmp/touchtmp/dat_glslmulti1_pixel1__td_1374_43.glsl",
+		"/Volumes/Storage/GitHub/glsl2dTuts-in-TouchDesigner/README.md",
+		"/private/tmp/touchtmp/dat_script1_callbacks__td_801_70.py",
+		"/private/tmp/touchtmp/dat_glslmulti1_pixel__td_634_48.glsl",
+		"/private/tmp/touchtmp/dat_panelexec1__td_632_42.py",
+		"/private/tmp/touchtmp/dat_glslmulti1_pixel__td_1296_48.glsl",
+		"/Users/mdragan/Downloads/hg_sdf.glsl",
+		"/private/tmp/touchtmp/dat_glslmulti1_pixel__td_1245_49.glsl",
+		"/private/tmp/touchtmp/dat_glslmulti1_pixel__td_793_43.glsl",
+		"/private/tmp/touchtmp/dat_glslmulti1_pixel__td_856_83.glsl",
+		"/private/tmp/touchtmp/dat_glslmulti1_pixel__td_1723_53.glsl",
+		"/private/tmp/touchtmp/dat_glslmulti1_pixel__td_1206_43.glsl",
+		"/private/tmp/touchtmp/dat_glsl1_pixel__td_1153_43.py",
+		"/private/tmp/touchtmp/dat_replicator1_callbacks__td_845_49.py",
+		"/Volumes/Storage/Applications/Autodesk/matchmover2014/Scripts/Libs/Python/python2.6/distutils/cmd.py",
+		"/private/tmp/touchtmp/dat_phong1GLSLVertex__td_686_50.py",
+		"/private/tmp/touchtmp/dat_phong1GLSLVertex__td_807_53.py",
+		"/private/tmp/touchtmp/dat_phong1GLSLPixel__td_701_59.py",
+		"/Users/mdragan/Desktop/digit_test.py",
+		"/private/tmp/touchtmp/dat_table1__td_708_49.py",
+		"/Users/mdragan/Desktop/code_challenge.py",
+		"/Users/mdragan/Desktop/tester.py",
+		"/private/tmp/touchtmp/dat_text1__td_907_49.py",
+		"/Users/mdragan/Desktop/input_test",
+		"/private/tmp/touchtmp/dat_text1__td_1611_65.py",
+		"/Volumes/Storage/GitHub/touchdesigner_config_and_startup/id.json",
+		"/private/tmp/touchtmp/dat_callbacks__td_12730_41.py",
+		"/Users/mdragan/Desktop/leanring_python/formatting.py",
+		"/Users/mdragan/Desktop/leanring_python/simple_logic.py",
+		"/Users/mdragan/Desktop/leanring_python/simple_python.py",
+		"/private/tmp/touchtmp/dat_script1_callbacks__td_534_42.py",
+		"/private/tmp/touchtmp/dat_script1_callbacks__td_557_42.py",
+		"/private/tmp/touchtmp/dat_text3__td_2385_55.py",
+		"/private/tmp/touchtmp/dat_glsl2__td_790_75.py",
+		"/private/tmp/touchtmp/dat_table_noise_attr__td_699_49.py",
+		"/private/tmp/touchtmp/dat_table1__td_920_52.py",
+		"/private/tmp/touchtmp/dat_table_select_attr__td_920_48.py",
+		"/Volumes/Storage/GitHub/MultiStonerExample/calibration_tox/text_class_calibration.py",
+		"/Volumes/Storage/GitHub/MultiStonerExample/README.md",
+		"/Volumes/Storage/GitHub/MultiStonerExample/calibration_tox/README.md",
+		"/Users/mdragan/Desktop/write_to_file_test/noise2.bclip",
+		"/Users/mdragan/Desktop/write_to_file_test/dat_pattern.bclip",
+		"/Users/mdragan/Library/Application Support/Sublime Text 3/Packages/WordCount/WordCount.sublime-settings",
+		"/private/tmp/touchtmp/dat_readme__td_964_52.py",
+		"/private/tmp/touchtmp/dat_readme__td_964_51.py",
+		"/private/tmp/touchtmp/dat_readme__td_964_46.py",
+		"/Volumes/Storage/GitHub/TD-Examples/ragan/optimization/readme.md",
+		"/private/tmp/touchtmp/dat_panelexec1__td_1193_46.py",
+		"/private/tmp/touchtmp/dat_chopexec1__td_1166_46.py",
+		"/Users/mdragan/Desktop/example_robocopy",
+		"/Users/mdragan/Desktop/TD Pytyhon/text_appending_lists.py",
+		"/Users/mdragan/Desktop/python/ex16.py",
+		"/Users/mdragan/Desktop/learnpython/classTest.py",
+		"/Users/mdragan/Desktop/prim.1_example.toe",
+		"/Users/mdragan/Desktop/python/huh.py",
+		"/Users/mdragan/Desktop/python/mystuff.py",
+		"/Users/mdragan/Desktop/python/ex40aa.py",
+		"/Users/mdragan/Desktop/python/ex40.py",
+		"/Users/mdragan/Desktop/great note from ian.py",
+		"/Users/mdragan/Desktop/python/ex16_edit.txt",
+		"/Users/mdragan/Desktop/python/ex17_testB.txt",
+		"/Users/mdragan/Desktop/python/ex20_extra.txt",
+		"/Users/mdragan/Desktop/python/test15_txt.txt",
+		"/Users/mdragan/Desktop/python/ex24.py",
+		"/Users/mdragan/Desktop/test.py"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"control_array",
+			"iGlobalTime",
+			"my_int",
+			"\")\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"uTime"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "shader_branch.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 174.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
