@@ -66,13 +66,13 @@ void main() {
     vec2 st 		= gl_FragCoord.st/u_resolution;
     vec3 color 		= vec3(0.0);
 
-    st              = rotate(   vec2(st.x, 1.0 - st.y), 
-                                radians(45.0));
+    st              = rotate( st, radians(-45.0));
 
     vec2 s          = vec2(1.0);
-    color           += fill(rectSDF(st - 0.025, s), 0.4);
-    color           += fill(rectSDF(st + 0.025, s), 0.4);
-    color           *= step(0.38, rectSDF(st + 0.025, s));
+    float o         = 0.05;
+
+    color           += flip( fill(rectSDF(st - o, s), 0.4),
+                             fill(rectSDF(st + o, s), 0.4));
 
 
     gl_FragColor 	= vec4(color,1.0);
