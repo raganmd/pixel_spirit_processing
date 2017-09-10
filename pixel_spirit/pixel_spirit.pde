@@ -4,7 +4,7 @@ void setup(){
   size(640, 640, P2D);
 
   noStroke();
-  shader = loadShader("shader_ripples.frag");
+  shader = loadShader("shader_magician.frag");
 }
 
 void draw(){
